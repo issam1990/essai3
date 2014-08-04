@@ -6,7 +6,7 @@ Elle est connectée à une base de donnée livrée par cloudbees.
 
 L'application est hébérgée sur cloudBees.
 
-RQ:
+RQ1:
 
 <f:event listener="#{etudiantBean.rediret}" type="preRenderView" />
 
